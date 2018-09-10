@@ -36,4 +36,4 @@ bot.on('ready', () => {
   bot.user.setActivity(`Nothing & With ${bot.guilds.size} Server`)
 });
 
-bot.login(process.env.BOT_TOKEN);
+bot.login("NDgxNDM5MjY2ODgzMzcxMDA4.DnWRbA.njrwbzlNJbTRy10QHqpASRWuZQI");
