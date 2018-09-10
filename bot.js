@@ -58,4 +58,4 @@ bot.on('guildMemberRemove', member => {
 });
 
 
-bot.login("NDgxNDM5MjY2ODgzMzcxMDA4.DnWRbA.njrwbzlNJbTRy10QHqpASRWuZQI");
+bot.login("proces.env.BOT_TOKEN");
